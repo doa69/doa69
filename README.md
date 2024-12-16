@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NzObjectStorage<br>🌱 I’m currently learning C#<br>⚡ Fun fact<br>- I Started Coding when i was 13 years old
+🔭 I’m currently working on NzObjectStorage<br>🌱 I’m currently learning C#<br>⚡ Fun fact<br><br> I Started Coding when i was 13 years old<br>
 
 
 # 💻 Tech Stack:
